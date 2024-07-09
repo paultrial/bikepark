@@ -91,6 +91,7 @@ export class AppComponent implements OnInit, OnDestroy {
     streetViewControl: false,
     isFractionalZoomEnabled: true,
     zoomControl: true,
+    gestureHandling: 'greedy'
   }
 
   public accuracyCircleOptions: google.maps.CircleOptions = {
