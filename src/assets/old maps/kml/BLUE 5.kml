@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BLUE 5.kmz</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>fff35400</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>fff35400</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>BLUE 5</name>
+		<styleUrl>#inline0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				25.55331404718591,45.58293540995097,0 25.55458327600108,45.58349530126691,0 25.55502787423265,45.58441085984457,0 25.55550869746242,45.58506553172308,0 25.5558748198162,45.58531560693627,0 25.55451721759398,45.58561017915391,0 25.55582345691033,45.58576523329771,0 25.55450042842522,45.58606776522357,0 25.55574122502085,45.58621622210677,0 25.55426869857056,45.58643555369262,0 25.5557897883891,45.5866387125917,0 25.55419162025015,45.58686756333173,0 25.55581942537404,45.58699807103954,0 25.55418982525314,45.58701337956908,0 25.55400755466582,45.58684623027737,0 25.55370578512182,45.58678823788016,0 25.55351997708065,45.58696188033691,0 25.55327649024512,45.58709035291664,0 25.55310638235448,45.58701129471686,0 25.55305570722077,45.58707919976496,0 25.55284402166155,45.58715791998574,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

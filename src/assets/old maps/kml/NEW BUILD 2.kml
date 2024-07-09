@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NEW BUILD 2.kmz</name>
+	<StyleMap id="inline">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>NEW BUILD 2</name>
+		<styleUrl>#inline</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				25.5617125516133,45.56952655109445,0 25.56174879063966,45.56979614449941,0 25.56174689473635,45.56995011892749,0 25.56174612180393,45.57011370375338,0 25.56161033925916,45.57023947347338,0 25.56123688132782,45.57057696658462,0 25.56119426841167,45.57080624530368,0 25.56132722311817,45.57098007947187,0 25.56135941086982,45.57112252371598,0 25.56126347164471,45.57128793663619,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

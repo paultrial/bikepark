@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NH DH - Black line</name>
+	<open>1</open>
+	<Style id="inline">
+		<LineStyle>
+			<color>fff50000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66ffffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>fff50000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66ffffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="lineStyle103">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#lineStyle105</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#lineStyle104</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="lineStyle104">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="lineStyle105">
+		<LineStyle>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Tracks</name>
+		<Placemark id="476705">
+			<name>NH DH - Black line</name>
+			<styleUrl>#lineStyle103</styleUrl>
+			<ExtendedData>
+				<Data name="trailid">
+					<value>476705</value>
+				</Data>
+				<Data name="url">
+					<value>https://www.trailforks.com/trails/nh-dh-black-line/</value>
+				</Data>
+				<Data name="closed">
+					<value>0</value>
+				</Data>
+				<Data name="archived">
+					<value>0</value>
+				</Data>
+				<Data name="planned">
+					<value>0</value>
+				</Data>
+				<Data name="difficulty">
+					<value>Black</value>
+				</Data>
+				<Data name="difficulty_id">
+					<value>10</value>
+				</Data>
+				<Data name="direction">
+					<value>Downhill Only</value>
+				</Data>
+				<Data name="direction_id">
+					<value>1</value>
+				</Data>
+				<Data name="activitytype">
+					<value>Mountain Bike</value>
+				</Data>
+				<Data name="activitytype_id">
+					<value>1</value>
+				</Data>
+				<Data name="activitytypes_ids">
+					<value>1, 2</value>
+				</Data>
+				<Data name="trailtype">
+					<value>Singletrack</value>
+				</Data>
+				<Data name="trailtype_id">
+					<value>1</value>
+				</Data>
+				<Data name="usage">
+					<value>Multi-use</value>
+				</Data>
+				<Data name="usage_id">
+					<value>3</value>
+				</Data>
+				<Data name="physical_rating">
+					<value>Hard</value>
+				</Data>
+				<Data name="physical_rating_id">
+					<value>3</value>
+				</Data>
+				<Data name="biketype">
+					<value>DH, AM</value>
+				</Data>
+				<Data name="ebike">
+					<value>yes</value>
+				</Data>
+				<Data name="global_rank">
+					<value>0</value>
+				</Data>
+				<Data name="popularity_score">
+					<value>70</value>
+				</Data>
+				<Data name="distance">
+					<value>2749</value>
+				</Data>
+				<Data name="alt_climb">
+					<value>1</value>
+				</Data>
+				<Data name="alt_descent">
+					<value>-619</value>
+				</Data>
+				<Data name="avg_time">
+					<value>1235</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>
+					25.56012,45.57048,1700 25.55993,45.5707,1688 25.55982,45.57079,1690 25.55956,45.57088999999999,1689 25.5594,45.5709,1689 25.55936,45.57088000000001,1689 25.55931,45.5709,1689 25.55932,45.57093,1689 25.55929,45.57096,1685 25.55919,45.57095,1685 25.55905,45.57101,1677 25.55885,45.57101,1672 25.55875,45.57104,1668 25.55885,45.57113,1672 25.559,45.57114,1672 25.55915,45.57124999999999,1660 25.55928,45.5714,1660 25.55914,45.5715,1660 25.55903,45.57149,1660 25.55896,45.57153,1644 25.55897,45.57157,1644 25.5591,45.57165,1643 25.55915,45.5717,1643 25.55894,45.57185,1624 25.55869,45.57191,1626 25.55857,45.572,1626 25.5586,45.57205,1626 25.55881,45.57213000000001,1608 25.55870000000001,45.57223,1607 25.55871,45.57227000000001,1607 25.5586,45.57243,1598 25.55848,45.57245,1598 25.55834,45.57245,1598 25.55819,45.57259,1597 25.55799,45.57268,1587 25.55797,45.57278,1587 25.55789,45.57285999999999,1584 25.55782,45.57303,1573 25.55774,45.57304999999999,1573 25.55774,45.57309,1573 25.55782,45.57321999999999,1556 25.5578,45.57329,1556 25.55774,45.57335,1556 25.55768,45.57335,1556 25.55762,45.57341000000001,1558 25.55737,45.5734,1558 25.55726,45.57345,1556 25.55716,45.57357,1547 25.55715,45.57378,1537 25.55703,45.57397,1542 25.5568,45.57409,1530 25.55661,45.57423,1530 25.55643999999999,45.57430000000001,1529 25.55635,45.57439,1516 25.55632,45.57449,1516 25.55661,45.57464,1507 25.55679,45.5749,1501 25.55682,45.57506,1500 25.55683,45.57523,1501 25.55668,45.57537,1499 25.55655,45.57538000000001,1499 25.55629,45.57526,1495 25.55616,45.57527000000001,1491 25.55616,45.5754,1491 25.55629,45.57549,1489 25.55635,45.5757,1478 25.55619,45.57561,1483 25.55607,45.5756,1483 25.55601,45.57567,1483 25.55607,45.57574999999999,1469 25.5559,45.57571,1460 25.55568999999999,45.57559,1466 25.55554,45.5756,1466 25.55566,45.57586000000001,1453 25.55544,45.57602,1444 25.55515,45.57608,1439 25.55509,45.57616999999999,1437 25.55517,45.57627,1432 25.55558,45.57652999999999,1426 25.55582,45.57659,1436 25.55587,45.57668,1436 25.556,45.57677000000001,1447 25.55598,45.57686,1435 25.55568,45.57694999999999,1419 25.55556,45.57703,1419 25.55558,45.57718,1411 25.55558,45.57764,1392 25.5556,45.57776,1392 25.55545,45.57804,1383 25.55496,45.57826,1367 25.55493,45.57843,1367 25.55486,45.57856,1347 25.5549,45.57869000000001,1355 25.555,45.57883,1339 25.55521,45.57923,1330 25.55536,45.5794,1321 25.55584,45.57988,1315 25.55605,45.58001,1316 25.55622,45.58006,1316 25.55626,45.58013,1322 25.55614,45.58024,1311 25.55625,45.58046,1310 25.55638,45.58065,1314 25.55623,45.58078,1298 25.55631,45.58094,1307 25.55645,45.58099,1284 25.55652,45.58133000000001,1264 25.55638,45.58143,1264 25.55604,45.58155,1247 25.55597,45.58169000000001,1243 25.55578,45.58167,1243 25.55578,45.58185,1238 25.55552,45.58187,1232 25.55546,45.58192,1232 25.5551,45.58201,1220 25.55513,45.58215,1211 25.55492,45.58222000000001,1211 25.55394,45.58230999999999,1197 25.55361,45.58241000000001,1185 25.55386,45.58261,1184 25.55364,45.58265,1172 25.55379,45.58277999999999,1177 25.55354,45.58286,1172 25.55375,45.58309,1165 25.5535,45.58319000000001,1165 25.55353,45.58336000000001,1158 25.55331,45.58349,1153 25.55326,45.58361000000001,1153 25.55358,45.58374,1151 25.55385,45.58387,1141 25.55392000000001,45.58408,1132 25.5541,45.58422999999999,1133 25.55416,45.58443,1126 25.55403,45.58465,1120 25.55381,45.58483,1116 25.55392000000001,45.58521,1106 25.55374,45.58530999999999,1106 25.55369,45.58557,1101 25.55345,45.58558,1100 25.55328,45.58561000000001,1100 25.55314,45.58569,1097 25.55305,45.58588,1096 25.55301,45.58605,1090 25.55286,45.58621,1085 25.55263,45.58633999999999,1071 25.55247,45.58684,1054 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	<Placemark>
+		<name>PB ZONE 2</name>
+		<visibility>0</visibility>
+		<styleUrl>#inline1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						25.55057534453467,45.5871767801805,0 25.5490585165432,45.58637054173783,0 25.54748250840119,45.5831243431146,0 25.5499370327519,45.58046594925143,0 25.54746453830846,45.57752904163134,0 25.54940539557442,45.57534845334676,0 25.55259368281104,45.57285288087818,0 25.55980889653887,45.57064540894106,0 25.55530218357679,45.57780134944473,0 25.55415099907705,45.58043725543293,0 25.55140232516325,45.58717221941971,0 25.55057534453467,45.5871767801805,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>lift station</name>
+		<LookAt>
+			<longitude>25.55203890907387</longitude>
+			<latitude>45.58706384891201</latitude>
+			<altitude>0</altitude>
+			<heading>130.1568614611082</heading>
+			<tilt>60.00241748952108</tilt>
+			<range>310.8213645078457</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>25.55120232784568,45.58736117936611,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>cabana</name>
+		<LookAt>
+			<longitude>25.5550967066022</longitude>
+			<latitude>45.5721224141143</latitude>
+			<altitude>0</altitude>
+			<heading>156.4482714559711</heading>
+			<tilt>58.01412120425927</tilt>
+			<range>553.4562663180327</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>25.55449594882009,45.57200902361251,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lift station</name>
+		<LookAt>
+			<longitude>25.55884909510132</longitude>
+			<latitude>45.57035169457461</latitude>
+			<altitude>0</altitude>
+			<heading>156.4509511779007</heading>
+			<tilt>58.01259391466908</tilt>
+			<range>352.9534498366678</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>25.56053921626588,45.57024211855357,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Yaeger chalet</name>
+		<LookAt>
+			<longitude>25.5609845272095</longitude>
+			<latitude>45.57041682760155</latitude>
+			<altitude>0</altitude>
+			<heading>156.4524761164983</heading>
+			<tilt>58.01270227312322</tilt>
+			<range>367.1789695699293</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>25.56095360544265,45.5705674734333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lift station</name>
+		<LookAt>
+			<longitude>25.5627455801462</longitude>
+			<latitude>45.56741517150838</latitude>
+			<altitude>0</altitude>
+			<heading>156.4537336697026</heading>
+			<tilt>58.0121885042521</tilt>
+			<range>299.7088042603507</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>25.56306303470386,45.56738742492616,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lift station</name>
+		<LookAt>
+			<longitude>25.56473741347923</longitude>
+			<latitude>45.56782483802704</latitude>
+			<altitude>0</altitude>
+			<heading>156.4551559978913</heading>
+			<tilt>58.01179957704738</tilt>
+			<range>248.6487549805224</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>25.56557212749465,45.56811432635803,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>lift station</name>
+		<LookAt>
+			<longitude>25.55650070581189</longitude>
+			<latitude>45.59092019589585</latitude>
+			<altitude>0</altitude>
+			<heading>156.4488998234814</heading>
+			<tilt>60.00309353020908</tilt>
+			<range>397.6881504240897</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>25.55567479952824,45.59163490960626,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LIFT STATION</name>
+		<LookAt>
+			<longitude>25.55165482689943</longitude>
+			<latitude>45.58709752685606</latitude>
+			<altitude>0</altitude>
+			<heading>173.1427478515116</heading>
+			<tilt>46.94220772790564</tilt>
+			<range>85.60493119801254</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>25.55165482689943,45.58709752685605,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

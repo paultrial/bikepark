@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Forest Flow</name>
+	<Style id="lineStyle101">
+		<LineStyle>
+			<color>fff08c14</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Tracks</name>
+		<Placemark id="559060">
+			<name>Forest Flow</name>
+			<styleUrl>#lineStyle101</styleUrl>
+			<ExtendedData>
+				<Data name="trailid">
+					<value>559060</value>
+				</Data>
+				<Data name="url">
+					<value>https://www.trailforks.com/trails/forest-flow-559060/</value>
+				</Data>
+				<Data name="closed">
+					<value>0</value>
+				</Data>
+				<Data name="archived">
+					<value>0</value>
+				</Data>
+				<Data name="planned">
+					<value>0</value>
+				</Data>
+				<Data name="difficulty">
+					<value>Blue</value>
+				</Data>
+				<Data name="difficulty_id">
+					<value>4</value>
+				</Data>
+				<Data name="direction">
+					<value>Downhill Only</value>
+				</Data>
+				<Data name="direction_id">
+					<value>1</value>
+				</Data>
+				<Data name="activitytype">
+					<value>Mountain Bike</value>
+				</Data>
+				<Data name="activitytype_id">
+					<value>1</value>
+				</Data>
+				<Data name="activitytypes_ids">
+					<value>1, 2</value>
+				</Data>
+				<Data name="trailtype">
+					<value>Machine Groomed</value>
+				</Data>
+				<Data name="trailtype_id">
+					<value>2</value>
+				</Data>
+				<Data name="usage">
+					<value>Multi-use</value>
+				</Data>
+				<Data name="usage_id">
+					<value>3</value>
+				</Data>
+				<Data name="physical_rating">
+					<value>Moderate</value>
+				</Data>
+				<Data name="physical_rating_id">
+					<value>2</value>
+				</Data>
+				<Data name="biketype">
+					<value>DH, AM, XC</value>
+				</Data>
+				<Data name="ebike">
+					<value>yes</value>
+				</Data>
+				<Data name="global_rank">
+					<value>0</value>
+				</Data>
+				<Data name="popularity_score">
+					<value>100</value>
+				</Data>
+				<Data name="distance">
+					<value>363</value>
+				</Data>
+				<Data name="alt_climb">
+					<value>0</value>
+				</Data>
+				<Data name="alt_descent">
+					<value>-44</value>
+				</Data>
+				<Data name="avg_time">
+					<value>59</value>
+				</Data>
+			</ExtendedData>
+			<LineString>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>
+					25.55698,45.57232999999999,1608 25.55711,45.57232,1609 25.5576,45.57236,1610 25.55782,45.57236,1608 25.55793999999999,45.57238000000001,1597 25.55786,45.57242,1595 25.55773,45.57241,1595 25.55751,45.57247,1595 25.5572,45.57249999999999,1594 25.55694,45.57257999999999,1595 25.55693,45.57261,1595 25.55706,45.5727,1583 25.55715,45.57272,1583 25.55748,45.57276,1582 25.55767,45.57274999999999,1584 25.55775999999999,45.57277,1584 25.55774,45.57281,1584 25.55768,45.57283,1584 25.55731,45.57285999999999,1583 25.55729,45.57288,1583 25.5573,45.57292,1571 25.55751,45.57295,1573 25.55752,45.57298,1573 25.55745,45.57302,1573 25.55731,45.57304999999999,1571 25.55732,45.57308,1571 25.55739,45.57312,1573 25.55754,45.57316000000001,1573 25.5576,45.57321,1558 25.55768,45.57335,1556 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

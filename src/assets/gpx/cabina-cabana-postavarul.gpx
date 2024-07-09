@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx version="1.1" creator="Trailforks.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<name>Cabina - Cabana Postavarul Trailforks Trail</name>
+<link href="https://www.trailforks.com/">
+<text>Trailforks</text>
+</link>
+</metadata>
+<trk>
+<name>
+Cabina - Cabana Postavarul
+</name>
+<trkseg>
+<trkpt lat="45.5675" lon="25.56254">
+<ele>1728</ele>
+<time>2024-02-09T03:29:14-08:00</time>
+</trkpt>
+<trkpt lat="45.56762" lon="25.56229">
+<ele>1720</ele>
+<time>2024-02-09T03:29:15-08:00</time>
+</trkpt>
+<trkpt lat="45.56736" lon="25.56187">
+<ele>1718</ele>
+<time>2024-02-09T03:29:16-08:00</time>
+</trkpt>
+<trkpt lat="45.56774" lon="25.5619">
+<ele>1706</ele>
+<time>2024-02-09T03:29:17-08:00</time>
+</trkpt>
+<trkpt lat="45.56802" lon="25.56192">
+<ele>1696</ele>
+<time>2024-02-09T03:29:18-08:00</time>
+</trkpt>
+<trkpt lat="45.568" lon="25.56168">
+<ele>1691</ele>
+<time>2024-02-09T03:29:19-08:00</time>
+</trkpt>
+<trkpt lat="45.56841" lon="25.56168">
+<ele>1684</ele>
+<time>2024-02-09T03:29:20-08:00</time>
+</trkpt>
+<trkpt lat="45.56847" lon="25.56129">
+<ele>1681</ele>
+<time>2024-02-09T03:29:21-08:00</time>
+</trkpt>
+<trkpt lat="45.56828" lon="25.5608">
+<ele>1672</ele>
+<time>2024-02-09T03:29:22-08:00</time>
+</trkpt>
+<trkpt lat="45.56841" lon="25.56034">
+<ele>1659</ele>
+<time>2024-02-09T03:29:23-08:00</time>
+</trkpt>
+<trkpt lat="45.56845" lon="25.55984">
+<ele>1647</ele>
+<time>2024-02-09T03:29:24-08:00</time>
+</trkpt>
+<trkpt lat="45.56851" lon="25.55951">
+<ele>1653</ele>
+<time>2024-02-09T03:29:25-08:00</time>
+</trkpt>
+<trkpt lat="45.56858" lon="25.55926">
+<ele>1647</ele>
+<time>2024-02-09T03:29:26-08:00</time>
+</trkpt>
+<trkpt lat="45.5682" lon="25.55924">
+<ele>1629</ele>
+<time>2024-02-09T03:29:27-08:00</time>
+</trkpt>
+<trkpt lat="45.56803" lon="25.55941">
+<ele>1626</ele>
+<time>2024-02-09T03:29:28-08:00</time>
+</trkpt>
+<trkpt lat="45.56786" lon="25.55962">
+<ele>1630</ele>
+<time>2024-02-09T03:29:29-08:00</time>
+</trkpt>
+<trkpt lat="45.56779" lon="25.55936">
+<ele>1622</ele>
+<time>2024-02-09T03:29:30-08:00</time>
+</trkpt>
+<trkpt lat="45.56799" lon="25.559">
+<ele>1616</ele>
+<time>2024-02-09T03:29:31-08:00</time>
+</trkpt>
+<trkpt lat="45.56817" lon="25.55876">
+<ele>1616</ele>
+<time>2024-02-09T03:29:32-08:00</time>
+</trkpt>
+<trkpt lat="45.5683" lon="25.55845">
+<ele>1623</ele>
+<time>2024-02-09T03:29:33-08:00</time>
+</trkpt>
+<trkpt lat="45.56832" lon="25.5578">
+<ele>1624</ele>
+<time>2024-02-09T03:29:34-08:00</time>
+</trkpt>
+<trkpt lat="45.56818" lon="25.55718">
+<ele>1606</ele>
+<time>2024-02-09T03:29:35-08:00</time>
+</trkpt>
+<trkpt lat="45.56807" lon="25.55668">
+<ele>1608</ele>
+<time>2024-02-09T03:29:36-08:00</time>
+</trkpt>
+<trkpt lat="45.56796" lon="25.5561">
+<ele>1612</ele>
+<time>2024-02-09T03:29:37-08:00</time>
+</trkpt>
+<trkpt lat="45.56801" lon="25.55559">
+<ele>1610</ele>
+<time>2024-02-09T03:29:38-08:00</time>
+</trkpt>
+<trkpt lat="45.56808" lon="25.5551">
+<ele>1605</ele>
+<time>2024-02-09T03:29:39-08:00</time>
+</trkpt>
+<trkpt lat="45.56822" lon="25.55469">
+<ele>1611</ele>
+<time>2024-02-09T03:29:40-08:00</time>
+</trkpt>
+<trkpt lat="45.56844" lon="25.55435">
+<ele>1605</ele>
+<time>2024-02-09T03:29:41-08:00</time>
+</trkpt>
+<trkpt lat="45.56876" lon="25.5543">
+<ele>1600</ele>
+<time>2024-02-09T03:29:42-08:00</time>
+</trkpt>
+<trkpt lat="45.56917" lon="25.55448">
+<ele>1609</ele>
+<time>2024-02-09T03:29:43-08:00</time>
+</trkpt>
+<trkpt lat="45.5695" lon="25.55472">
+<ele>1618</ele>
+<time>2024-02-09T03:29:44-08:00</time>
+</trkpt>
+<trkpt lat="45.56996" lon="25.55499">
+<ele>1610</ele>
+<time>2024-02-09T03:29:45-08:00</time>
+</trkpt>
+<trkpt lat="45.57034" lon="25.55517">
+<ele>1609</ele>
+<time>2024-02-09T03:29:46-08:00</time>
+</trkpt>
+<trkpt lat="45.57072" lon="25.5554">
+<ele>1597</ele>
+<time>2024-02-09T03:29:47-08:00</time>
+</trkpt>
+<trkpt lat="45.57125" lon="25.55549">
+<ele>1600</ele>
+<time>2024-02-09T03:29:48-08:00</time>
+</trkpt>
+<trkpt lat="45.57149" lon="25.55543">
+<ele>1600</ele>
+<time>2024-02-09T03:29:49-08:00</time>
+</trkpt>
+<trkpt lat="45.57176" lon="25.55509">
+<ele>1591</ele>
+<time>2024-02-09T03:29:50-08:00</time>
+</trkpt>
+<trkpt lat="45.57187" lon="25.55474">
+<ele>1589</ele>
+<time>2024-02-09T03:29:51-08:00</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>access road 1.kmz</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff00fffd</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff00fffd</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>access road</name>
+		<styleUrl>#inline0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				25.55763135418503,45.57497449372262,0 25.55712613040612,45.57491141519841,0 25.5565897324706,45.57479439209842,0 25.55632450675051,45.57463414349684,0 25.55581473361998,45.57439669440799,0 25.55542516460741,45.57417699207152,0 25.55520455431462,45.57401683320447,0 25.55499127384108,45.5738398737591,0 25.55455926060219,45.57380970402121,0 25.5543270177548,45.57372641496794,0 25.55379092900465,45.57359432022639,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
