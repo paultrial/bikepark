@@ -19,12 +19,13 @@ export const tracks = [
 ]
 
 export const pois = [
-    "lift station 3",
+    "lift station Ruia Top",
     "Yaeger chalet",
-    "LIFT STATION6",
-    "lift station5",
-    "lift station4",
-    "lift station2",
-    "lift station1",
-    "lift station"
+    "Lift Station Kanzel Bottom",
+    "Lift Station Kanzel Top",
+    "Lift Station Capra Neagra Bottom",
+    "lift station Capra Neagra Top",
+    "lift station Postavaru Express Top",
+    "Lift station Ruia Bottom",
+    "Lift Station Postavaru Express Bottom"
 ]
