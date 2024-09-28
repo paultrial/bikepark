@@ -74,15 +74,17 @@ export class AppComponent implements OnInit, OnDestroy {
 
   public poiStartOptions: google.maps.MarkerOptions = {
     clickable: true,
-    icon: './assets/start.png'
+    icon: './assets/start.png',
+    zIndex: -1
   }
-
+  
   public poiFinishOptions: google.maps.MarkerOptions = {
-    icon: './assets/finish.png'
+    icon: './assets/finish.png',
+    zIndex: -1
   }
 
   public poiClosed: google.maps.MarkerOptions = {
-    icon: './assets/closed.png'
+    icon: './assets/closed.png',
   }
 
   public mapOptions: google.maps.MapOptions = {
