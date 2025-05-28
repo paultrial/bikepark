@@ -90,9 +90,12 @@ export class AppComponent implements OnInit, OnDestroy {
   public mapOptions: google.maps.MapOptions = {
     center: { lat: 45.583726, lng: 25.553073 },
     zoom: 14,
-    streetViewControl: false,
+    streetViewControl: true,
+    streetViewControlOptions: {position: google.maps.ControlPosition.LEFT_BOTTOM},
+    panControl: true,
+    panControlOptions: {position: google.maps.ControlPosition.BOTTOM_LEFT},
+    headingInteractionEnabled: true,
     isFractionalZoomEnabled: true,
-    zoomControl: true,
     gestureHandling: 'greedy'
   }
 
@@ -259,7 +262,13 @@ export class AppComponent implements OnInit, OnDestroy {
           closedEnd: e[e.length - 1]
         }
       })
-    })
+    });
+
+    // document.addEventListener('click', () => {
+    //   if (this.tSelected || this.captionInfoVisible) {
+    //     debugger;
+    //   }
+    // });
 
     /*
     
@@ -345,12 +354,13 @@ export class AppComponent implements OnInit, OnDestroy {
     }, 400)
   }
 
-  public moveMap = (data: google.maps.event) => {
+  public moveMap = () => {
     this.cp.zoom = this.map.getZoom();
     this.pinPointRadius = Math.pow(2, (21 - this.cp.zoom)) * this.pinpointMultiplier;
     this.arrow = this.calcArrow();
 
     this.chdet.detectChanges();
+    // debugger;
   }
 
   public findMe = () => {
@@ -374,17 +384,20 @@ export class AppComponent implements OnInit, OnDestroy {
     map.addListener('bounds_changed', this.moveMap);
 
     map.setOptions({
-      tilt: 0
+      // tilt: 0,
+      rotateControl: true,
+      scaleControl: true,
+      panControl: true
     })
 
     map.setHeadingInteractionEnabled(true);
-    map.setTiltInteractionEnabled(false);
+    // map.setTiltInteractionEnabled(true);
+    
+    // map.setTilt(0);
 
-    map.setTilt(0);
-
-    map.addListener('tilt_changed', () => {
-      map.setTilt(0);
-    });
+    // map.addListener('tilt_changed', () => {
+    //   map.setTilt(0);
+    // });
   }
 
   public toggleDebugData = () => {
