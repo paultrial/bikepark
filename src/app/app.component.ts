@@ -384,20 +384,10 @@ export class AppComponent implements OnInit, OnDestroy {
     map.addListener('bounds_changed', this.moveMap);
 
     map.setOptions({
-      // tilt: 0,
       rotateControl: true,
       scaleControl: true,
       panControl: true
-    })
-
-    map.setHeadingInteractionEnabled(true);
-    // map.setTiltInteractionEnabled(true);
-    
-    // map.setTilt(0);
-
-    // map.addListener('tilt_changed', () => {
-    //   map.setTilt(0);
-    // });
+    });
   }
 
   public toggleDebugData = () => {
