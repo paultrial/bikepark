@@ -264,12 +264,6 @@ export class AppComponent implements OnInit, OnDestroy {
       })
     });
 
-    // document.addEventListener('click', () => {
-    //   if (this.tSelected || this.captionInfoVisible) {
-    //     debugger;
-    //   }
-    // });
-
     /*
     
     Notification.requestPermission().then(yes => {
@@ -311,8 +305,6 @@ export class AppComponent implements OnInit, OnDestroy {
     } else {
       doTheDeed();
     }
-    // this.map.notify(t.name);
-    // this.chdet.detectChanges();
   }
 
   public markerClick = (event: google.maps.MapMouseEvent, poi: any) => {
